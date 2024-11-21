@@ -1,2 +1,2 @@
 # pseudo_class
-url
+url link: https://alaminbrbd.github.io/pseudo_class/
