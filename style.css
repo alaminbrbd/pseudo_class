@@ -1,0 +1,16 @@
+p:first-child{
+    background-color: aqua;
+}
+.l_child p:nth-last-child(3){
+    background-color:yellowgreen;
+}
+.ul_item li:nth-child(1){
+    background-color: lightgreen;
+}
+.ul_item li:nth-child(4){
+    background-color: yellow;
+}
+.hover_l a:hover{
+    background-color: yellow;
+    font-size:18px;
+}
